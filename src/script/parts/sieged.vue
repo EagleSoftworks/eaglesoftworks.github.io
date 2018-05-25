@@ -1,6 +1,8 @@
 <template>
   <div>
-    Sieged game view
+  	<title>Sieged- Eagle Softworks</title>
+	<br/>
+    <h2>Sieged Game View</h2>
     <!-- WebGL loader -->
 
     <!-- might need to use CORSBuster / SOPBuster -->

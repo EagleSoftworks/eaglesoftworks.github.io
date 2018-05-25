@@ -11,8 +11,23 @@
   <body>
       <div id="app">
         <div id="header">
-          <router-link to="home">Home</router-link>
-          <router-link to="sieged">Sieged Game</router-link>
+            <div id="Home Button" class="button is-warning is-medium is-rounded">
+                <router-link to="home">
+					<font color="black">Home</font>
+				</router-link>
+            </div>
+			
+            <div id="Logo" class="button is-warning is-medium">
+                <div class="image is-48x48">
+                    <img src="https://avatars1.githubusercontent.com/u/39059572?s=200&v=4">
+                </div> 
+            </div>
+                
+            <div id="Sieged Button" class="button is-warning is-medium is-rounded">
+                <router-link to="sieged">
+					<font color="black">Sieged</font>
+				</router-link>
+            </div>
         </div>
 
         <router-view></router-view>
