@@ -22,7 +22,7 @@
   "license": "GPL-3.0",
   "dependencies": {
     "awesome-typescript-loader": "^5.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bulma": "^0.7.1",
     "css-loader": "^0.28.11",
     "has-localstorage": "^1.0.1",
